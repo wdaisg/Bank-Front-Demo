@@ -1,0 +1,14 @@
+body {
+  margin: 10px auto;
+  padding: 0;
+  width: 800px;
+}
+
+span {
+  display: inline-block;
+  width: 100%;
+}
+
+*:focus {
+  outline: none;
+}
